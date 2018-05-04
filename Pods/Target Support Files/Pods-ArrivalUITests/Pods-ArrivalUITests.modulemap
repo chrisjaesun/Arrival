@@ -1,0 +1,6 @@
+framework module Pods_ArrivalUITests {
+  umbrella header "Pods-ArrivalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
